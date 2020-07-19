@@ -1,0 +1,1 @@
+Manjaro LXQt Arc theme
